@@ -4,7 +4,7 @@
 # CPS847 – Lab 5 (Team X)
 
 **Repo Owner:** Taksh (@TakshK66)  
-**Teammates (Collaborators):** Anmol (@user1), Chaitanya (@user2), …
+**Teammates (Collaborators):** Anmol , Chaitanya , …
 
 ## What’s in here
 - ZenHub/GitHub setup for Lab 5
