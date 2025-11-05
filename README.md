@@ -1,8 +1,6 @@
 # cps847-lab5
 
 
-# CPS847 – Lab 5 (Team X)
-
 **Repo Owner:** Taksh (@TakshK66)  
 **Teammates (Collaborators):** Anmol , Chaitanya
 
